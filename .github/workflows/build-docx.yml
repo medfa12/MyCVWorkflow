@@ -1,0 +1,24 @@
+name: Build-CVs
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Pandoc
+        run: sudo apt-get update && sudo apt-get install -y pandoc
+
+      - name: Convert to DOCX
+        run: |
+          pandoc resume_us.md -o resume_us.docx --from=gfm
+          pandoc cv_eu.md     -o cv_eu.docx    --from=gfm
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: CVs
+          path: |
+            resume_us.docx
+            cv_eu.docx
