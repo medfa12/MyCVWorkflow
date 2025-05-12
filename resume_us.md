@@ -17,36 +17,36 @@ JavaScript / TypeScript · React / Next 14 · Nest.js · Spring · AWS CDK · Az
 
 ## EXPERIENCE
 ### Front-End Developer Intern — **Ok Studios** · Borj Cedria *Jul – Aug 2024*  
-- Re-platformed a marketing site to Next 14 App Router, noticeably improving page-load performance and Lighthouse SEO scores.  
-- Assembled a Tailwind + Framer Motion component kit that reduced developer hand-off overhead.  
+- Re-platformed the marketing site to Next 14 App Router, noticeably improving load performance and Lighthouse SEO scores.  
+- Built a Tailwind + Framer Motion component kit that reduced developer hand-off overhead.  
 - Added structured-data tags that boosted Google organic visibility.
 
 ### WordPress Developer Intern — **Health & Fitness by NMS** *Jun – Jul 2023*  
-- Launched a modern, responsive WordPress site with custom Gutenberg blocks, reducing bounce rate and improving local-search reach.  
-- Drove an SEO overhaul (Yoast, schema.org) that increased impressions in the first month.
+- Launched a responsive WordPress site with custom Gutenberg blocks, reducing bounce rate and improving local SEO.  
+- Led an SEO overhaul (Yoast, schema.org) that increased impressions in the first month.
 
 ---
 
 ## NOTABLE PROJECTS
 | Project | Stack | Outcome |
 |---------|-------|---------|
-| **Video Platform** | Next 13 · Cloud Run · Firebase Auth | Supports high-throughput uploads and 4 K streaming |
-| **Social Media Next** | Next 13 RSC · Prisma · Postgres | Sustains low-latency API calls under concurrent load |
-| **Warehouse Manager** | Nest.js + React | Shortened stock-check cycles for capstone partner |
-| **Exams System** | Spring Boot 3 + Angular | Generates unique exams and prevents scheduling conflicts |
+| **Exam Supervision Management System** | Spring Boot 3 + Angular | Generates unique exams and prevents scheduling conflicts |
+| Video Platform | Next 13 · Cloud Run · Firebase Auth | Supports high-throughput uploads and 4 K streaming |
+| Social Media Next | Next 13 RSC · Prisma · Postgres | Sustains low-latency API calls under concurrent load |
+| Warehouse Manager | Nest.js + React | Shortened stock-check cycles for capstone partner |
 
-(*Full repo list on GitHub — 19 public projects*)
+*(Full repo list on GitHub — 19 public projects)*
 
 ---
 
 ## EDUCATION
-**B.S. Software Engineering**, Faculty of Sciences of Tunis 2023 – 2026  
-Ranked 5 th / 80 in national preparatory programme
+**B.Sc. Software Engineering**, Faculty of Sciences of Tunis 2023 – 2026  
+Ranked 5 th / 80 in the university’s integrated Mathematics-Physics-CS preparatory track (2021 – 2023)
 
 ---
 
 ## CERTIFICATIONS
-AWS Certified Developer – Associate • Microsoft Azure Fundamentals • Oracle Java Foundations
+AWS Certified Developer – Associate · Microsoft Azure Fundamentals · Oracle Java Foundations
 
 ---
 
