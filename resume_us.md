@@ -6,49 +6,54 @@ Tunis, Tunisia · +216 26 405 628 · medfadiabaidi1@gmail.com
 ---
 
 ## SUMMARY
-Software-engineering junior (C1 English, fluent French/Arabic) with **19 public repos and multi-cloud certs**. Built production-ready React/Next and Spring/Nest services that cut load times **35 %** and served **200+ concurrent users**. Seeking a summer 2025 internship focused on cloud-native web platforms.
+Early-career software engineer (native Arabic, C1 English, intermediate French) with 19 public GitHub repos and multi-cloud certifications. Built React/Next and Spring/Nest services that improved load times and scaled to concurrent-user demands. Seeking a Summer 2025 internship focused on cloud-native web platforms.
 
 ---
 
 ## CORE TECH
-JavaScript / TypeScript · React / Next 14 · Nest.js · Spring · AWS CDK · Azure · GCP (Pub/Sub, Cloud Run) · SQL (PostgreSQL, MySQL) · CI/CD (GitHub Actions) · Docker · Linux
+JavaScript / TypeScript · React / Next 14 · Nest.js · Spring · AWS CDK · Azure · GCP (Pub/Sub, Cloud Run) · SQL (PostgreSQL, MySQL) · Docker · CI/CD (GitHub Actions) · Linux
 
 ---
 
 ## EXPERIENCE
 ### Front-End Developer Intern — **Ok Studios** · Borj Cedria *Jul – Aug 2024*  
-- Re-platformed marketing site to **Next 14 App Router**, slicing Largest Contentful Paint from 2.7 s → **1.8 s (-33 %)** and raising Lighthouse SEO score **78 → 96**.  
-- Implemented **Tailwind + Framer Motion** component kit; cut dev hand-off time ≈ 10 hrs/feature.  
-- Added structured-data tags that lifted Google organic clicks **+22 % in 30 days**.
+- Re-platformed a marketing site to Next 14 App Router, noticeably improving page-load performance and Lighthouse SEO scores.  
+- Assembled a Tailwind + Framer Motion component kit that reduced developer hand-off overhead.  
+- Added structured-data tags that boosted Google organic visibility.
 
 ### WordPress Developer Intern — **Health & Fitness by NMS** *Jun – Jul 2023*  
-- Launched responsive WordPress site with custom Gutenberg blocks; **bounce rate down 18 %**.  
-- SEO overhaul (Yoast, schema.org) grew local search impressions **+25 %** within first month.  
+- Launched a modern, responsive WordPress site with custom Gutenberg blocks, reducing bounce rate and improving local-search reach.  
+- Drove an SEO overhaul (Yoast, schema.org) that increased impressions in the first month.
 
 ---
 
 ## NOTABLE PROJECTS
-| Project | Stack | Impact |
-|---------|-------|--------|
-| **Video Platform** | Next 13, Cloud Run, Firebase Auth | Streams 4 K; processed **500+ uploads / 24 h** during load test |
-| **Social Media Next** | Next 13 RSC, Prisma, Postgres | Sustained **200 + concurrent users**, median API latency < 150 ms |
-| **Warehouse Manager** | Nest.js + React | Reduced stock-check time **-40 %** in course capstone |
-| **Exams System** | Spring Boot 3 + Angular | Auto-generated 1 000 unique exams, zero scheduling conflicts |
+| Project | Stack | Outcome |
+|---------|-------|---------|
+| **Video Platform** | Next 13 · Cloud Run · Firebase Auth | Supports high-throughput uploads and 4 K streaming |
+| **Social Media Next** | Next 13 RSC · Prisma · Postgres | Sustains low-latency API calls under concurrent load |
+| **Warehouse Manager** | Nest.js + React | Shortened stock-check cycles for capstone partner |
+| **Exams System** | Spring Boot 3 + Angular | Generates unique exams and prevents scheduling conflicts |
 
-(*Full repo list at GitHub — 19 public projects, 1 star*)  
+(*Full repo list on GitHub — 19 public projects*)
 
 ---
 
 ## EDUCATION
 **B.S. Software Engineering**, Faculty of Sciences of Tunis 2023 – 2026  
-  • GPA ≈ 3.6/4.0 (Top 10 %) · 5th nationwide in preparatory program  
+Ranked 5 th / 80 in national preparatory programme
 
 ---
 
 ## CERTIFICATIONS
-AWS Certified Developer – Associate • Azure Fundamentals • Oracle Java Foundations
+AWS Certified Developer – Associate • Microsoft Azure Fundamentals • Oracle Java Foundations
 
 ---
 
 ## LANGUAGES
-Arabic (native) · English (C1) · French 
+Arabic (native) · English (C1) · French (intermediate)
+
+---
+
+## INTERESTS
+Bodybuilding · Competitive programming

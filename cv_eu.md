@@ -6,46 +6,46 @@
 **Telephone** +216 26 405 628  
 **E-mail** medfadiabaidi1@gmail.com  
 **LinkedIn** https://linkedin.com/in/medfadiabaidi  
-**GitHub** https://github.com/medfa12 (19 repositories)  
-**Digital Badges** AWS Developer Associate · Azure Fundamentals · Oracle Java Foundations  
+**GitHub** https://github.com/medfa12 (19 repositories)
 
 ---
 
 ## Work Experience
-**07/2024 – 08/2024 Front-End Developer Intern – Ok Studios, Tunisia**  
-- Migrated showcase site to Next.js 14; cut LCP **-0.9 s (-33 %)** and boosted SEO score **+18 pts**.  
-- Built reusable Tailwind component library, shortening feature delivery cycles by **≈ 30 %**.  
-- Led accessibility audit (WCAG 2.1 AA) raising overall score from 68 → 95.
+**07 / 2024 – 08 / 2024 Front-End Developer Intern – Ok Studios, Tunisia**  
+- Migrated showcase site to Next.js 14, noticeably improving Largest Contentful Paint and Lighthouse SEO scores.  
+- Created a reusable Tailwind component library that accelerated feature delivery for the team.  
+- Led an accessibility audit that brought pages to WCAG 2.1 AA compliance.
 
-**06/2023 – 07/2023 Web Developer Intern – Health & Fitness by NMS, Tunisia**  
-- Developed WordPress platform with custom plugins; organic visits **+25 % MoM**.  
-- Integrated booking add-on that captured **50 + appointments** in first fortnight.
+**06 / 2023 – 07 / 2023 Web Developer Intern – Health & Fitness by NMS, Tunisia**  
+- Built a responsive WordPress platform with custom plugins, boosting organic traffic and enabling online appointment booking.  
+- Rolled out a booking add-on that captured appointments within the first fortnight.
 
 ---
 
 ## Education and Training
 **2023 – 2026 Bachelor of Software Engineering – Faculty of Sciences of Tunis**  
-Key modules: Distributed Systems, DevOps, Cloud Architectures  
-**2021 – 2023 Preparatory Classes – FST El Manar** (5th out of 600)  
+Key modules: Distributed Systems · DevOps · Cloud Architectures  
+
+**2021 – 2023 Preparatory Classes – FST El Manar** *(ranked 5 th of 80)*  
+
 **≤ 2021 Pioneer High School Hamam Lif – Mathematics Section**
 
 ---
 
 ## Personal Skills
-- **Mother tongue:** Arabic • **Other languages:** English (C1), French (C1)  
-- **Communication:** Delivered sprint demos in English/French to mixed audiences.  
-- **Organisation:** Scrum Master for 8-person capstone, met all milestones ahead of deadline.  
-- **Digital competence:** See “Projects” & “Certifications”.
+- **Mother tongue:** Arabic • **Other languages:** English (C1), French (intermediate)  
+- **Communication:** Delivered sprint demos in English/French to cross-functional audiences; served as Scrum Master for an eight-person capstone team.  
+- **Digital competence:** JavaScript/TypeScript · React/Next · Spring Boot · AWS · Azure · GCP · Docker · GitHub Actions.
 
 ---
 
 ## Projects
-| Year | Title | Technologies | Result |
+| Year | Title | Technologies | Impact |
 |------|-------|--------------|--------|
-| 2025 | Exams Management System | Spring Boot 3, Angular | Automated **1 000 exam variants**; zero clashes |
-| 2024 | Video Streaming Platform | Next 13, GCP (Pub/Sub, Cloud Run) | Handled **500+ video uploads/day** |
-| 2024 | Social Media Network | Next 13 RSC, Postgres | < 150 ms median latency @ **200 concurrent users** |
-| 2023 | Car Rental Desktop App | Java Swing, MySQL | Reduced manual paperwork **-90 %** |
+| 2025 | Exams Management System | Spring Boot 3, Angular | Automated exam-variant generation; eliminated scheduling clashes |
+| 2024 | Video Streaming Platform | Next 13, GCP (Pub/Sub, Cloud Run) | Designed for high-volume uploads and 4 K streaming |
+| 2024 | Social Media Network | Next 13 RSC, Postgres | Maintained low-latency responses under concurrent-user tests |
+| 2023 | Car Rental Desktop App | Java Swing, MySQL | Drastically reduced manual paperwork for agency staff |
 
 ---
 
@@ -57,5 +57,4 @@ Key modules: Distributed Systems, DevOps, Cloud Architectures
 ---
 
 ## Additional Information
-**Driving licence:** Category B • **Interests:** Competitive programming, hiking, chess (national top 20 youth ranking)  
-**References:** Available on request
+**Driving licence:** B • **Interests:** bodybuilding, competitive programming • **References:** Available on request
