@@ -57,3 +57,6 @@ Arabic (native) · English (C1) · French (intermediate)
 
 ## INTERESTS
 Bodybuilding · Competitive programming
+
+## VOLUNTARY WORK
+Media Manager, Google Developer Group (GDG) Campus — Faculty of Sciences of Tunis (2024 – present)

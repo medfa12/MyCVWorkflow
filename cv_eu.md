@@ -53,5 +53,8 @@ Key modules · Distributed Systems · DevOps · Cloud Architectures
 
 ---
 
+## Voluntary Work
+Media Manager, Google Developer Group (GDG) Campus — Faculty of Sciences of Tunis (2024 – present)
+
 ## Additional Information
 Driving licence B · **Interests:** bodybuilding, competitive programming · References available on request
