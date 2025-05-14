@@ -3,7 +3,7 @@
 ## Personal Information
 **First name / Surname** Med Fadi Abaidi  
 Tunis, Tunisia · +216 26 405 628 · medfadiabaidi1@gmail.com  
-[LinkedIn](https://linkedin.com/in/medfadiabaidi) | [GitHub](https://github.com/medfa12) (19 public repos)
+[LinkedIn](https://linkedin.com/in/medfadiabaidi) | [GitHub](https://github.com/medfa12) (19 public repos) | [Credly](https://www.credly.com/users/med-fadi-abaidi)
 
 ---
 
@@ -47,9 +47,9 @@ Key modules · Distributed Systems · DevOps · Cloud Architectures
 ---
 
 ## Certifications
-- [AWS Certified Developer – Associate](https://www.credly.com/org/amazon-web-services/badge/aws-certified-developer-associate)  
-- [Microsoft Certified – Azure Fundamentals](https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-fundamentals)  
-- [Oracle Certified Foundations Associate, Java](https://www.credly.com/org/oracle/badge/oracle-certified-foundations-associate-java)
+- [AWS Certified Developer – Associate](https://www.credly.com/badges/31befc38-a70f-4f8b-8612-896ac8933ac8)  
+- [Microsoft Certified – Azure Fundamentals](https://www.credly.com/badges/b3896cee-8f4a-438d-afd3-f230c50d5049)  
+- [Oracle Certified Foundations Associate, Java](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0D8F6EE7F5108F6D2AB96394982C559ECDFBEADCD8073E656CD93F84B37317ED)
 
 ---
 

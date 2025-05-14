@@ -1,7 +1,7 @@
 # Med Fadi Abaidi
 **Cloud-Savvy Full-Stack Engineer (B.S. ’26)**  
 Tunis, Tunisia · +216 26 405 628 · medfadiabaidi1@gmail.com  
-[LinkedIn](https://linkedin.com/in/medfadiabaidi) | [GitHub](https://github.com/medfa12) | [AWS Badge](https://www.credly.com/org/amazon-web-services/badge/aws-certified-developer-associate) | [Azure Badge](https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-fundamentals) | [Oracle Badge](https://www.credly.com/org/oracle/badge/oracle-certified-foundations-associate-java)
+[LinkedIn](https://linkedin.com/in/medfadiabaidi) | [GitHub](https://github.com/medfa12) | [Credly](https://www.credly.com/users/med-fadi-abaidi) | [AWS Badge](https://www.credly.com/badges/31befc38-a70f-4f8b-8612-896ac8933ac8) | [Azure Badge](https://www.credly.com/badges/b3896cee-8f4a-438d-afd3-f230c50d5049) | [Oracle Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0D8F6EE7F5108F6D2AB96394982C559ECDFBEADCD8073E656CD93F84B37317ED)
 
 ---
 
@@ -41,12 +41,12 @@ JavaScript / TypeScript · React / Next 14 · Nest.js · Spring · AWS CDK · Az
 
 ## EDUCATION
 **B.Sc. Software Engineering**, Faculty of Sciences of Tunis 2023 – 2026  
-Ranked 5 th / 80 in the university’s integrated Mathematics-Physics-CS preparatory track (2021 – 2023)
+Ranked 5 th / 80 in the university's integrated Mathematics-Physics-CS preparatory track (2021 – 2023)
 
 ---
 
 ## CERTIFICATIONS
-AWS Certified Developer – Associate · Microsoft Azure Fundamentals · Oracle Java Foundations
+[AWS Certified Developer – Associate](https://www.credly.com/badges/31befc38-a70f-4f8b-8612-896ac8933ac8) · [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/b3896cee-8f4a-438d-afd3-f230c50d5049) · [Oracle Certified Foundations Associate, Java](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0D8F6EE7F5108F6D2AB96394982C559ECDFBEADCD8073E656CD93F84B37317ED)
 
 ---
 
